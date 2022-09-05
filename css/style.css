@@ -1,6 +1,18 @@
-.nav-bar{
-    list-style-type: none;
-    display: flex;
-    display: inline-block;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #eee;
+
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+#page-wrapper {
     position: relative;
 }
