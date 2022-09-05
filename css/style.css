@@ -1,6 +1,6 @@
-.nav-bar{
+#neader{
     list-style-type: none;
-    display: flex;
+    
     display: inline-block;
     position: relative;
 }
